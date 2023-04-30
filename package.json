@@ -15,7 +15,9 @@
 		"start": "node dist"
 	},
 	"dependencies": {
-		"esbuild": "^0.17.18"
+		"esbuild": "^0.17.18",
+		"fastify": "^4.17.0",
+		"youtube-captions-scraper": "^2.0.0"
 	},
 	"devDependencies": {
 		"@types/node": "^18.16.3"
